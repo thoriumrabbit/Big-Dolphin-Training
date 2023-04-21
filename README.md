@@ -1,2 +1,2 @@
-# Big-Dolphin-Training
-Personal training at bigdolphin ltd
+# Big Dolphin Traning
+ Personal Traning at Big Dolphin Ltd

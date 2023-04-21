@@ -1,0 +1,6 @@
+#!/bin/bash -f
+cd ~/var-fslc-yocto/sources/poky/
+source oe-init-build-env
+cd ~/var-fslc-yocto
+source setup-environment build_xwayland
+MACHINE=imx8mq-var-dart DISTRO=fslc-xwayland . var-setup-release.sh build_xwayland

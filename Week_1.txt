@@ -1,0 +1,30 @@
+Khái niệm Hệ Điều Hành.
+
+Các thành phần cơ bản của hê điều hành (các lớp của hệ điều hành,....)
+
+Tìm hiểu lịch sử phát triển: nguồn gốc, các nhánh
+
+Tìm hiểu:
+- Cấu trúc thư mục
+
+- Các định dạng phân vùng trên linux (ext3, ext4, btrfs,...), so sánh, so sánh với NTFS
+
+- Tải và cài một phiên bản linux
+
+- Các lệnh cơ bản trên linux
+
+- Các phân quyền cho file, thư mục
+
+- Cài một phiên bản linux trên máy thật hoặc máy ảo VirtualBox
+
+- Biên dịch một chương trình C/C++ đơn giản trên linux bằng GCC/G++.
+
+- Tìm hiểu quá trình GCC biên dịch từ file C ra file thực thi.
+
+- https://www.youtube.com/watch?v=FIIH8zfayXI
+
+- Nội dung các giấy phép mã nguồn mở phổ biến.
+
+- So sánh ưu và nhược giữa các giấy phép.
+
+- Phân loại giấy phép nào dùng được cho thương mại.
